@@ -1,0 +1,13 @@
+#include<stdio.h>       // link section 
+
+#define hour 24;        // definition section
+
+char letter = 'J';     // Global declaration section
+
+int main()             // function definition section
+{
+  int second = 60;     // Local declaration section
+  float floatnumber;   // declaration part
+  floatnumber=12.34f;  // definition part
+  return 0;            // we tells to the compiler. the program is end.
+}

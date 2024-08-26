@@ -2,7 +2,7 @@
 
 void keywords();
 
-int int main()
+int main()
 {
 
   keywords();
